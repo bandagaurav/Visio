@@ -1,0 +1,853 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PageContents xmlns="http://schemas.microsoft.com/office/visio/2012/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xml:space="preserve">
+  <Shapes>
+    <Shape ID="1000" Name="Rectangle.2818" NameU="Rectangle.2818" Type="Shape" UniqueID="{DB51FE10-987A-450D-B49C-E4920070EFDB}">
+      <Text>
+        <cp IX="0"/>
+        <pp IX="0"/>
+Sub-Process      </Text>
+      <User>
+        <visNavOrder Value="1000"/>
+      </User>
+    </Shape>
+    <Shape ID="1001" Type="Shape" UniqueID="{5AAADB86-1B23-4317-88DB-D4FC82E299FC}">
+      <Text>
+        <cp IX="0"/>
+        <cp IX="1"/>
+        <cp IX="2"/>
+        <pp IX="0"/>
+Complete “Good Order Checks”[Note: Mismatch allowed Checks may require Ops User Intervention]      </Text>
+      <User>
+        <visNavOrder Value="2000"/>
+      </User>
+      <Property>
+        <Function Type="0" Invisible="0" Verify="0" DataLinked="0" LangID="en-US" Calendar="0"/>
+      </Property>
+    </Shape>
+    <Shape ID="1002" Name="Task.4685" NameU="Task.4685" Type="Group" UniqueID="{C3FBFD42-FA36-4F42-B5E9-BAB82793A47D}" Text="Validate Address">
+      <Property>
+        <BpmnDocumentation Value="SPBR.3.1.2"/>
+        <BpmnName Value="Validate Address"/>
+        <BpmnTaskType Value="User"/>
+        <Function Type="0" Invisible="0" Verify="0" DataLinked="0" LangID="en-US" Calendar="0"/>
+      </Property>
+      <User>
+        <visNavOrder Value="3000"/>
+      </User>
+      <Shapes>
+        <Shape ID="1003" Type="Shape"/>
+        <Shape ID="1004" Type="Group">
+          <Shapes>
+            <Shape ID="1005" Type="Shape"/>
+            <Shape ID="1006" Type="Shape"/>
+          </Shapes>
+        </Shape>
+        <Shape ID="1007" Type="Shape"/>
+        <Shape ID="1008" Type="Group">
+          <Shapes>
+            <Shape ID="1009" Type="Shape"/>
+            <Shape ID="1010" Type="Shape"/>
+          </Shapes>
+        </Shape>
+        <Shape ID="1011" Type="Shape"/>
+        <Shape ID="1012" Type="Shape"/>
+        <Shape ID="1013" Type="Group">
+          <Shapes>
+            <Shape ID="1014" Type="Shape"/>
+          </Shapes>
+        </Shape>
+        <Shape ID="1015" Type="Shape"/>
+        <Shape ID="1016" Type="Shape"/>
+        <Shape ID="1017" Type="Group">
+          <Shapes>
+            <Shape ID="1018" Type="Shape"/>
+            <Shape ID="1019" Type="Shape"/>
+          </Shapes>
+        </Shape>
+        <Shape ID="1020" Type="Shape"/>
+        <Shape ID="1021" Type="Shape"/>
+        <Shape ID="1022" Type="Shape"/>
+        <Shape ID="1023" Type="Shape"/>
+        <Shape ID="1024" Type="Shape"/>
+        <Shape ID="1025" Name="Heading 2" NameU="Heading 2" Type="Shape">
+          <User>
+            <ValueText Value="SPBR.3.1.2"/>
+          </User>
+          <Property>
+            <msvCalloutField Value="SPBR.3.1.2"/>
+          </Property>
+        </Shape>
+        <Shape ID="1026" Name="Circle.1462" NameU="Circle.1462" Type="Shape"/>
+        <Shape ID="1027" Name="Circle.81" NameU="Circle.81" Type="Shape" UniqueID="{01D0846A-BF95-471E-AFAD-29D0B5C67F29}"/>
+      </Shapes>
+    </Shape>
+    <Shape ID="1028" Name="Sequence Flow.8216" NameU="Sequence Flow.8216" Type="Shape" UniqueID="{BFF2E08C-B135-43A0-91F8-3756CC275E68}">
+      <User>
+        <visNavOrder Value="4000"/>
+      </User>
+    </Shape>
+    <Shape ID="1029" Name="Task.12971" NameU="Task.12971" Type="Group" UniqueID="{223368AC-1BF3-44CE-BA9D-0C32ACE76791}" Text="Validate Name">
+      <Property>
+        <BpmnDocumentation Value="SPBR.3.1.1"/>
+        <BpmnName Value="Validate Name"/>
+        <BpmnTaskType Value="User"/>
+        <Function Type="0" Invisible="0" Verify="0" DataLinked="0" LangID="en-US" Calendar="0"/>
+      </Property>
+      <User>
+        <visNavOrder Value="5000"/>
+      </User>
+      <Shapes>
+        <Shape ID="1030" Type="Shape"/>
+        <Shape ID="1031" Type="Group">
+          <Shapes>
+            <Shape ID="1032" Type="Shape"/>
+            <Shape ID="1033" Type="Shape"/>
+          </Shapes>
+        </Shape>
+        <Shape ID="1034" Type="Shape"/>
+        <Shape ID="1035" Type="Group">
+          <Shapes>
+            <Shape ID="1036" Type="Shape"/>
+            <Shape ID="1037" Type="Shape"/>
+          </Shapes>
+        </Shape>
+        <Shape ID="1038" Type="Shape"/>
+        <Shape ID="1039" Type="Shape"/>
+        <Shape ID="1040" Type="Group">
+          <Shapes>
+            <Shape ID="1041" Type="Shape"/>
+          </Shapes>
+        </Shape>
+        <Shape ID="1042" Type="Shape"/>
+        <Shape ID="1043" Type="Shape"/>
+        <Shape ID="1044" Type="Group">
+          <Shapes>
+            <Shape ID="1045" Type="Shape"/>
+            <Shape ID="1046" Type="Shape"/>
+          </Shapes>
+        </Shape>
+        <Shape ID="1047" Type="Shape"/>
+        <Shape ID="1048" Type="Shape"/>
+        <Shape ID="1049" Type="Shape"/>
+        <Shape ID="1050" Type="Shape"/>
+        <Shape ID="1051" Type="Shape"/>
+        <Shape ID="1052" Name="Heading 2" NameU="Heading 2" Type="Shape">
+          <User>
+            <ValueText Value="SPBR.3.1.1"/>
+          </User>
+          <Property>
+            <msvCalloutField Value="SPBR.3.1.1"/>
+          </Property>
+        </Shape>
+        <Shape ID="1053" Name="Circle.1462" NameU="Circle.1462" Type="Shape"/>
+        <Shape ID="1054" Name="Circle.81" NameU="Circle.81" Type="Shape" UniqueID="{CB42C6C7-22FB-42D4-BE2F-5C74F628E2EA}"/>
+      </Shapes>
+    </Shape>
+    <Shape ID="1055" Name="Sequence Flow.12997" NameU="Sequence Flow.12997" Type="Shape" UniqueID="{65B906CB-1E5B-4235-86FF-782236C63909}">
+      <User>
+        <visNavOrder Value="6000"/>
+      </User>
+    </Shape>
+    <Shape ID="1056" Name="Sequence Flow.16187" NameU="Sequence Flow.16187" Type="Shape" UniqueID="{241ABBD3-ADE3-4767-B8B3-AE82EB287DF6}">
+      <User>
+        <visNavOrder Value="7000"/>
+      </User>
+    </Shape>
+    <Shape ID="1057" Name="Start Event" NameU="Start Event" Type="Group" UniqueID="{9C4A40DC-01BA-44F6-AE67-5B9F479D147B}">
+      <User>
+        <visNavOrder Value="8000"/>
+      </User>
+      <Shapes>
+        <Shape ID="1058" Type="Shape"/>
+        <Shape ID="1059" Type="Shape"/>
+        <Shape ID="1060" Type="Shape"/>
+        <Shape ID="1061" Type="Shape"/>
+        <Shape ID="1062" Type="Shape"/>
+        <Shape ID="1063" Type="Shape"/>
+        <Shape ID="1064" Type="Shape"/>
+        <Shape ID="1065" Type="Shape"/>
+        <Shape ID="1066" Type="Shape"/>
+        <Shape ID="1067" Type="Shape"/>
+        <Shape ID="1068" Type="Shape"/>
+        <Shape ID="1069" Type="Shape"/>
+        <Shape ID="1070" Name="Circle.1462" NameU="Circle.1462" Type="Shape" UniqueID="{5F796B93-9790-4E70-B3C8-2A777C42A07A}"/>
+      </Shapes>
+    </Shape>
+    <Shape ID="1077" Name="End Event.4260" NameU="End Event.4260" Type="Group" UniqueID="{70068911-79B6-4E5C-A323-665CC56F1798}">
+      <Text>
+        <cp IX="0"/>
+Good Order Check Completed      </Text>
+      <Property>
+        <BpmnName Value="Good Order Check Completed"/>
+      </Property>
+      <User>
+        <visNavOrder Value="11000"/>
+      </User>
+      <Shapes>
+        <Shape ID="1078" Type="Shape"/>
+        <Shape ID="1079" Type="Shape"/>
+        <Shape ID="1080" Type="Shape"/>
+        <Shape ID="1081" Type="Shape"/>
+        <Shape ID="1082" Type="Shape"/>
+        <Shape ID="1083" Type="Shape"/>
+        <Shape ID="1084" Type="Shape"/>
+        <Shape ID="1085" Type="Shape"/>
+        <Shape ID="1086" Type="Shape"/>
+        <Shape ID="1087" Type="Shape"/>
+        <Shape ID="1088" Type="Shape"/>
+        <Shape ID="1089" Type="Shape"/>
+        <Shape ID="1090" Name="Circle.1466" NameU="Circle.1466" Type="Shape" UniqueID="{15C0D91E-CFA6-4455-A668-62E58217ECBA}"/>
+        <Shape ID="1091" Name="Circle.1465" NameU="Circle.1465" Type="Shape" UniqueID="{ED31B2DE-912C-4883-8B27-EBF389B9E61E}"/>
+        <Shape ID="1092" Name="Circle.1464" NameU="Circle.1464" Type="Shape" UniqueID="{DFF6A6F2-2B09-4C8D-83C1-9FB2F5794E17}"/>
+        <Shape ID="1093" Name="Circle.1463" NameU="Circle.1463" Type="Shape" UniqueID="{9AC0D197-AF87-458B-9BA1-DAC9336F0C82}"/>
+        <Shape ID="1094" Name="Circle.1462" NameU="Circle.1462" Type="Shape" UniqueID="{2C75FFE3-E86B-4AB1-B204-7E6B80766B50}"/>
+      </Shapes>
+    </Shape>
+    <Shape ID="1098" Name="Annotation.1098" NameU="ABC.1098" Type="Group" UniqueID="{B1C112DB-9CED-4EFB-A6F1-193CBC07D7D5}">
+      <User>
+        <visNavOrder Value="13000"/>
+      </User>
+      <Shapes>
+        <Shape ID="1099" Type="Shape"/>
+        <Shape ID="1100" Type="Shape" UniqueID="{907EB456-4B31-4C80-B35C-76E9018F9727}">
+          <Text>
+            <cp IX="0"/>
+            <cp IX="1"/>
+            <cp IX="2"/>
+            <cp IX="3"/>
+            <cp IX="4"/>
+            <cp IX="5"/>
+            <cp IX="6"/>
+            <cp IX="7"/>
+            <cp IX="8"/>
+            <pp IX="0"/>
+            <pp IX="1"/>
+System allows for mismatch as there are several scenarios where name is valid ie. Preferred name.HLR:BMOMWS011.4 [BMO-567]Story:BMO-23377.FR.02Capability:678.Validate Transfer Request          </Text>
+        </Shape>
+      </Shapes>
+    </Shape>
+    <Shape ID="1101" Type="Group" UniqueID="{573B9243-70B6-4728-B4F9-6E7E3ACA096F}" Text="Validate Account Type">
+      <Property>
+        <BpmnDocumentation Value="SPBR.3.1.3"/>
+        <BpmnName Value="Validate Account Type"/>
+        <BpmnTaskType Value="Service"/>
+      </Property>
+      <User>
+        <visNavOrder Value="14000"/>
+      </User>
+      <Shapes>
+        <Shape ID="1102" Type="Shape"/>
+        <Shape ID="1103" Type="Group">
+          <Shapes>
+            <Shape ID="1104" Type="Shape"/>
+            <Shape ID="1105" Type="Shape"/>
+          </Shapes>
+        </Shape>
+        <Shape ID="1106" Type="Shape"/>
+        <Shape ID="1107" Type="Group">
+          <Shapes>
+            <Shape ID="1108" Type="Shape"/>
+            <Shape ID="1109" Type="Shape"/>
+          </Shapes>
+        </Shape>
+        <Shape ID="1110" Type="Shape"/>
+        <Shape ID="1111" Type="Shape"/>
+        <Shape ID="1112" Type="Group">
+          <Shapes>
+            <Shape ID="1113" Type="Shape"/>
+          </Shapes>
+        </Shape>
+        <Shape ID="1114" Type="Shape"/>
+        <Shape ID="1115" Type="Shape"/>
+        <Shape ID="1116" Type="Group">
+          <Shapes>
+            <Shape ID="1117" Type="Shape"/>
+            <Shape ID="1118" Type="Shape"/>
+          </Shapes>
+        </Shape>
+        <Shape ID="1119" Type="Shape"/>
+        <Shape ID="1120" Type="Shape"/>
+        <Shape ID="1121" Type="Shape"/>
+        <Shape ID="1122" Type="Shape"/>
+        <Shape ID="1123" Type="Shape"/>
+        <Shape ID="1124" Name="Heading 2" NameU="Heading 2" Type="Shape">
+          <User>
+            <ValueText Value="SPBR.3.1.3"/>
+          </User>
+          <Property>
+            <msvCalloutField Value="SPBR.3.1.3"/>
+          </Property>
+        </Shape>
+        <Shape ID="1125" Name="Circle.1462" NameU="Circle.1462" Type="Shape"/>
+        <Shape ID="1126" Name="Circle.81" NameU="Circle.81" Type="Shape" UniqueID="{71FED9C4-65EC-419A-A3BE-912C83068D88}"/>
+      </Shapes>
+    </Shape>
+    <Shape ID="1128" Name="Annotation.1128" NameU="ABC.1128" Type="Group" UniqueID="{EF51C3B1-F50C-4802-A31F-7BEB769B78AF}">
+      <User>
+        <visNavOrder Value="16000"/>
+      </User>
+      <Shapes>
+        <Shape ID="1129" Type="Shape"/>
+        <Shape ID="1130" Type="Shape" UniqueID="{4EE70540-7A18-418A-8B14-3C8F45EAABA3}">
+          <Text>
+            <cp IX="0"/>
+            <cp IX="1"/>
+            <cp IX="2"/>
+            <cp IX="3"/>
+            <cp IX="4"/>
+            <cp IX="5"/>
+            <cp IX="6"/>
+            <cp IX="7"/>
+            <cp IX="8"/>
+            <cp IX="9"/>
+            <pp IX="0"/>
+            <pp IX="1"/>
+System allows for mismatch. If mismatch, upon Advisor approval of request, address will be flagged for review to ensure client receives any paperwork related to their account closure/Transfer Out request.HLR:BMOMWS011.4 [BMO-567]Story:BMO-23377.FR.02Capability:
+Dependency:678.Validate Transfer Request,Work Tracker          </Text>
+        </Shape>
+      </Shapes>
+    </Shape>
+    <Shape ID="1134" Type="Group" UniqueID="{C9979F3A-81E1-4B65-9164-63EB6CA80D77}" Text="Validate Sin">
+      <Property>
+        <BpmnDocumentation Value="SPBR.3.1.4"/>
+        <BpmnName Value="Validate Sin"/>
+        <BpmnTaskType Value="User"/>
+      </Property>
+      <User>
+        <visNavOrder Value="18000"/>
+      </User>
+      <Shapes>
+        <Shape ID="1135" Type="Shape"/>
+        <Shape ID="1136" Type="Group">
+          <Shapes>
+            <Shape ID="1137" Type="Shape"/>
+            <Shape ID="1138" Type="Shape"/>
+          </Shapes>
+        </Shape>
+        <Shape ID="1139" Type="Shape"/>
+        <Shape ID="1140" Type="Group">
+          <Shapes>
+            <Shape ID="1141" Type="Shape"/>
+            <Shape ID="1142" Type="Shape"/>
+          </Shapes>
+        </Shape>
+        <Shape ID="1143" Type="Shape"/>
+        <Shape ID="1144" Type="Shape"/>
+        <Shape ID="1145" Type="Group">
+          <Shapes>
+            <Shape ID="1146" Type="Shape"/>
+          </Shapes>
+        </Shape>
+        <Shape ID="1147" Type="Shape"/>
+        <Shape ID="1148" Type="Shape"/>
+        <Shape ID="1149" Type="Group">
+          <Shapes>
+            <Shape ID="1150" Type="Shape"/>
+            <Shape ID="1151" Type="Shape"/>
+          </Shapes>
+        </Shape>
+        <Shape ID="1152" Type="Shape"/>
+        <Shape ID="1153" Type="Shape"/>
+        <Shape ID="1154" Type="Shape"/>
+        <Shape ID="1155" Type="Shape"/>
+        <Shape ID="1156" Type="Shape"/>
+        <Shape ID="1157" Name="Heading 2" NameU="Heading 2" Type="Shape">
+          <User>
+            <ValueText Value="SPBR.3.1.4"/>
+          </User>
+          <Property>
+            <msvCalloutField Value="SPBR.3.1.4"/>
+          </Property>
+        </Shape>
+        <Shape ID="1158" Name="Circle.1462" NameU="Circle.1462" Type="Shape"/>
+        <Shape ID="1159" Name="Circle.81" NameU="Circle.81" Type="Shape" UniqueID="{878642C4-F78D-4FE2-88EC-29BE3362BA8C}"/>
+      </Shapes>
+    </Shape>
+    <Shape ID="1160" Name="Sequence Flow.1160" NameU="Sequence Flow.1160" Type="Shape" UniqueID="{6978D014-D21F-48A9-89C7-4A89AE2DDB4A}">
+      <User>
+        <visNavOrder Value="19000"/>
+      </User>
+    </Shape>
+    <Shape ID="1161" Name="End Event.1161" NameU="End Event.1161" Type="Group" UniqueID="{AD110A10-0BE3-46C8-8AB3-81E3559A80F2}">
+      <Text>
+        <cp IX="0"/>
+Automatic Rejection      </Text>
+      <Property>
+        <BpmnName Value="Automatic Rejection"/>
+      </Property>
+      <User>
+        <visNavOrder Value="20000"/>
+      </User>
+      <Shapes>
+        <Shape ID="1162" Type="Shape" UniqueID="{0B485A26-7AB8-4A15-86C5-4482C80C19FE}"/>
+        <Shape ID="1163" Type="Shape"/>
+        <Shape ID="1164" Type="Shape"/>
+        <Shape ID="1165" Type="Shape"/>
+        <Shape ID="1166" Type="Shape"/>
+        <Shape ID="1167" Type="Shape"/>
+        <Shape ID="1168" Type="Shape"/>
+        <Shape ID="1169" Type="Shape"/>
+        <Shape ID="1170" Type="Shape"/>
+        <Shape ID="1171" Type="Shape"/>
+        <Shape ID="1172" Type="Shape"/>
+        <Shape ID="1173" Type="Shape"/>
+        <Shape ID="1174" Name="Circle.1466" NameU="Circle.1466" Type="Shape" UniqueID="{E66A2A28-6285-4615-B9A9-5E89E057E350}"/>
+        <Shape ID="1175" Name="Circle.1465" NameU="Circle.1465" Type="Shape" UniqueID="{24A2A1DD-E6B4-41DE-9F6D-EE7E52C986A6}"/>
+        <Shape ID="1176" Name="Circle.1464" NameU="Circle.1464" Type="Shape" UniqueID="{92B8F75F-8FB4-4E85-8954-E9F40D817D09}"/>
+        <Shape ID="1177" Name="Circle.1463" NameU="Circle.1463" Type="Shape" UniqueID="{44D63F0E-BF89-4257-9C75-57B345591551}"/>
+        <Shape ID="1178" Name="Circle.1462" NameU="Circle.1462" Type="Shape" UniqueID="{D4D3EE59-353D-4141-B9B6-5BA4C781E538}"/>
+      </Shapes>
+    </Shape>
+    <Shape ID="1179" Type="Shape" UniqueID="{5515570C-26DB-4BEA-A12D-E37F1114025F}" Text="No">
+      <Property>
+        <BpmnName Value="No"/>
+      </Property>
+      <User>
+        <visNavOrder Value="21000"/>
+      </User>
+    </Shape>
+    <Shape ID="1180" Name="Annotation.1180" NameU="ABC.1180" Type="Group" UniqueID="{2F493509-8406-4E41-9931-BADBD4478589}">
+      <User>
+        <visNavOrder Value="22000"/>
+      </User>
+      <Shapes>
+        <Shape ID="1181" Type="Shape"/>
+        <Shape ID="1182" Type="Shape" UniqueID="{F88DDCD5-0171-46D1-BD93-66D56F13C744}">
+          <Text>
+            <cp IX="0"/>
+            <cp IX="1"/>
+            <cp IX="2"/>
+            <cp IX="3"/>
+            <cp IX="4"/>
+            <cp IX="5"/>
+            <cp IX="6"/>
+            <cp IX="7"/>
+            <cp IX="8"/>
+            <pp IX="0"/>
+            <pp IX="1"/>
+Account Type needs to be validated with acceptable transfer movements and legislation. 
+-Acceptable transfer movements must adhere to business rules( Ex. Transfer from RRIF, Client must be under 71)
+-Acceptable Transfer movements must adhere to business rules that outline which cross-legislation transfers are acceptable.
+(ex: If the account selected to transfer a LRIF domiciled in Manitoba (aka PRIF), then the user should see only &apos;Manitoba (MB)&apos; in legislation dropdown )HLR:BMOMWS011.4 [BMO-567], BMOMWS011.20 [BMO-3822]Story:BMO-23377.FR.02, BMO-3967.FR.02,BMO-3967.FR.03,BMO-3967.FR.04,BMO-3967.FR.05Capability:
+Dependency:678.Validate Transfer Request          </Text>
+        </Shape>
+      </Shapes>
+    </Shape>
+    <Shape ID="1183" Name="Annotation.1183" NameU="ABC.1183" Type="Group" UniqueID="{7ADD6E64-072F-4B85-B837-48A36C260414}">
+      <User>
+        <visNavOrder Value="23000"/>
+      </User>
+      <Shapes>
+        <Shape ID="1184" Type="Shape"/>
+        <Shape ID="1185" Type="Shape" UniqueID="{34B11DB8-96C4-4289-9BC8-C2ECEDD6DC9E}">
+          <Text>
+            <cp IX="0"/>
+            <cp IX="1"/>
+            <cp IX="2"/>
+            <cp IX="3"/>
+            <cp IX="4"/>
+            <cp IX="5"/>
+            <cp IX="6"/>
+            <cp IX="7"/>
+            <cp IX="8"/>
+            <pp IX="0"/>
+            <pp IX="1"/>
+Ops to validate if SIN matches. If SIN does not match, validate whether SINS have been flipped between multiple account owners( if applicable)HLR:BMOMWS011.4 [BMO-567]Story:BMO-23377.FR.02Capability:
+Dependency:678.Validate Transfer Request          </Text>
+        </Shape>
+      </Shapes>
+    </Shape>
+    <Shape ID="1216" Name="Task.1216" NameU="Task.1216" Type="Group" UniqueID="{7853841A-B71F-419A-AAB0-A7F4803B268E}" Text="Validate Spousal Information">
+      <Property>
+        <BpmnDocumentation Value="SPBR.3.1.6"/>
+        <BpmnName Value="Validate Spousal Information"/>
+      </Property>
+      <User>
+        <visNavOrder Value="27000"/>
+      </User>
+      <Shapes>
+        <Shape ID="1217" Type="Shape"/>
+        <Shape ID="1218" Type="Group">
+          <Shapes>
+            <Shape ID="1219" Type="Shape"/>
+            <Shape ID="1220" Type="Shape"/>
+          </Shapes>
+        </Shape>
+        <Shape ID="1221" Type="Shape"/>
+        <Shape ID="1222" Type="Group">
+          <Shapes>
+            <Shape ID="1223" Type="Shape"/>
+            <Shape ID="1224" Type="Shape"/>
+          </Shapes>
+        </Shape>
+        <Shape ID="1225" Type="Shape"/>
+        <Shape ID="1226" Type="Shape"/>
+        <Shape ID="1227" Type="Group">
+          <Shapes>
+            <Shape ID="1228" Type="Shape"/>
+          </Shapes>
+        </Shape>
+        <Shape ID="1229" Type="Shape"/>
+        <Shape ID="1230" Type="Shape"/>
+        <Shape ID="1231" Type="Group">
+          <Shapes>
+            <Shape ID="1232" Type="Shape"/>
+            <Shape ID="1233" Type="Shape"/>
+          </Shapes>
+        </Shape>
+        <Shape ID="1234" Type="Shape"/>
+        <Shape ID="1235" Type="Shape"/>
+        <Shape ID="1236" Type="Shape"/>
+        <Shape ID="1237" Type="Shape"/>
+        <Shape ID="1238" Type="Shape"/>
+        <Shape ID="1239" Name="Heading 2" NameU="Heading 2" Type="Shape">
+          <User>
+            <ValueText Value="SPBR.3.1.6"/>
+          </User>
+          <Property>
+            <msvCalloutField Value="SPBR.3.1.6"/>
+          </Property>
+        </Shape>
+        <Shape ID="1240" Name="Circle.1462" NameU="Circle.1462" Type="Shape"/>
+        <Shape ID="1241" Name="Circle.81" NameU="Circle.81" Type="Shape" UniqueID="{810CE5B2-62AE-48D2-9527-09B9AEBE811F}"/>
+      </Shapes>
+    </Shape>
+    <Shape ID="1242" Name="Sequence Flow.1242" NameU="Sequence Flow.1242" Type="Shape" UniqueID="{3E61402F-8EA4-422D-A25F-38BE2BCF1505}">
+      <User>
+        <visNavOrder Value="28000"/>
+      </User>
+    </Shape>
+    <Shape ID="1243" Name="Annotation.1243" NameU="ABC.1243" Type="Group" UniqueID="{4EA1BBB8-1A8E-4795-BA49-CAD031A50978}">
+      <User>
+        <visNavOrder Value="29000"/>
+      </User>
+      <Shapes>
+        <Shape ID="1244" Type="Shape"/>
+        <Shape ID="1245" Type="Shape" UniqueID="{995A36A9-8AAF-42D0-BF45-48323E51E09F}">
+          <Text>
+            <cp IX="0"/>
+            <cp IX="1"/>
+            <cp IX="2"/>
+            <cp IX="3"/>
+            <cp IX="4"/>
+            <cp IX="5"/>
+            <cp IX="6"/>
+            <cp IX="7"/>
+            <cp IX="8"/>
+            <cp IX="9"/>
+            <cp IX="10"/>
+            <pp IX="0"/>
+            <pp IX="1"/>
+Ops to validate Spousal Information. Mismatch allows. If advisor accepts Transfer Out request, only then will account maintenance happen.HLR:BMOMWS011.4 [BMO-567]Story:BMO-23377.FR.02Capability:
+Dependency:678.Validate Transfer Request,Work Tracker          </Text>
+        </Shape>
+      </Shapes>
+    </Shape>
+    <Shape ID="1264" Name="Sequence Flow.1264" NameU="Sequence Flow.1264" Type="Shape" UniqueID="{2CC2FF91-740C-4880-ADBE-52679815FD41}">
+      <User>
+        <visNavOrder Value="31000"/>
+      </User>
+    </Shape>
+    <Shape ID="1265" Type="Group" UniqueID="{038410AC-75E9-4917-AA71-A321DF8B660D}" Text="Determine Cash/InKind/Mixed">
+      <Property>
+        <BpmnDocumentation Value="SPBR.3.1.8"/>
+        <BpmnName Value="Determine Cash/InKind/Mixed"/>
+        <BpmnTaskType Value="Service"/>
+      </Property>
+      <User>
+        <visNavOrder Value="32000"/>
+      </User>
+      <Shapes>
+        <Shape ID="1266" Type="Shape"/>
+        <Shape ID="1267" Type="Group">
+          <Shapes>
+            <Shape ID="1268" Type="Shape"/>
+            <Shape ID="1269" Type="Shape"/>
+          </Shapes>
+        </Shape>
+        <Shape ID="1270" Type="Shape"/>
+        <Shape ID="1271" Type="Group">
+          <Shapes>
+            <Shape ID="1272" Type="Shape"/>
+            <Shape ID="1273" Type="Shape"/>
+          </Shapes>
+        </Shape>
+        <Shape ID="1274" Type="Shape"/>
+        <Shape ID="1275" Type="Shape"/>
+        <Shape ID="1276" Type="Group">
+          <Shapes>
+            <Shape ID="1277" Type="Shape"/>
+          </Shapes>
+        </Shape>
+        <Shape ID="1278" Type="Shape"/>
+        <Shape ID="1279" Type="Shape"/>
+        <Shape ID="1280" Type="Group">
+          <Shapes>
+            <Shape ID="1281" Type="Shape"/>
+            <Shape ID="1282" Type="Shape"/>
+          </Shapes>
+        </Shape>
+        <Shape ID="1283" Type="Shape"/>
+        <Shape ID="1284" Type="Shape"/>
+        <Shape ID="1285" Type="Shape"/>
+        <Shape ID="1286" Type="Shape"/>
+        <Shape ID="1287" Type="Shape"/>
+        <Shape ID="1288" Name="Heading 2" NameU="Heading 2" Type="Shape">
+          <User>
+            <ValueText Value="SPBR.3.1.8"/>
+          </User>
+          <Property>
+            <msvCalloutField Value="SPBR.3.1.8"/>
+          </Property>
+        </Shape>
+        <Shape ID="1289" Name="Circle.1462" NameU="Circle.1462" Type="Shape"/>
+        <Shape ID="1290" Name="Circle.81" NameU="Circle.81" Type="Shape" UniqueID="{A723C642-3104-4F1D-8193-AB88C656A606}"/>
+      </Shapes>
+    </Shape>
+    <Shape ID="1318" Name="Annotation.1318" NameU="ABC.1318" Type="Group" UniqueID="{E7478A49-3E7F-4555-81CD-64BAE9915638}">
+      <User>
+        <visNavOrder Value="35000"/>
+      </User>
+      <Shapes>
+        <Shape ID="1319" Type="Shape"/>
+        <Shape ID="1320" Type="Shape" UniqueID="{803E42D7-9900-40CF-8D08-7F3B2D370BF1}">
+          <Text>
+            <cp IX="0"/>
+            <cp IX="1"/>
+            <cp IX="2"/>
+            <cp IX="3"/>
+            <cp IX="4"/>
+            <cp IX="5"/>
+            <cp IX="6"/>
+            <cp IX="7"/>
+            <cp IX="8"/>
+            <pp IX="0"/>
+            <pp IX="1"/>
+Transfer Type determination, whether full, partial, or Restricted. System Validates whether securities specified from CDS are categorized as Non-Transferrable securities or restricted securities.HLR:BMOMWS011.4 [BMO-567]Story:BMO-23377.FR.02Capability:
+Dependency:678.Validate Transfer Request          </Text>
+        </Shape>
+      </Shapes>
+    </Shape>
+    <Shape ID="1321" Type="Shape" UniqueID="{20655CA2-BB43-4227-B5CE-5D1C16CBF7A6}">
+      <User>
+        <visNavOrder Value="36000"/>
+      </User>
+    </Shape>
+    <Shape ID="5000" Name="Annotation.5000" NameU="ABC.5000" Type="Group" UniqueID="{60F3ECA6-D823-411A-B047-AF0B29863160}">
+      <User>
+        <visNavOrder Value="38000"/>
+      </User>
+      <Shapes>
+        <Shape ID="5001" Type="Shape"/>
+        <Shape ID="5002" Type="Shape" UniqueID="{D45E0121-E58A-483B-A150-182128D13CB7}">
+          <Text>
+            <cp IX="0"/>
+            <cp IX="1"/>
+            <cp IX="2"/>
+            <cp IX="3"/>
+            <cp IX="4"/>
+            <cp IX="5"/>
+            <cp IX="6"/>
+            <cp IX="7"/>
+            <cp IX="8"/>
+            <pp IX="0"/>
+            <pp IX="1"/>
+If In Kind, System validates if any securities specified in Transfer Out are categorized as non transferrable or restricted.HLR:BMOMWS011.4 [BMO-567]Story:BMO-23377.FR.02Capability:
+Dependency:678.Validate Transfer Request          </Text>
+        </Shape>
+      </Shapes>
+    </Shape>
+    <Shape ID="5029" Type="Group" UniqueID="{339307E6-EC32-4DFE-9E59-14F54E318918}" Text="Determine Transfer Type">
+      <Property>
+        <BpmnDocumentation Value="SPBR.3.1.7"/>
+        <BpmnName Value="Determine Transfer Type"/>
+        <BpmnTaskType Value="Service"/>
+      </Property>
+      <User>
+        <visNavOrder Value="40000"/>
+      </User>
+      <Shapes>
+        <Shape ID="5030" Type="Shape"/>
+        <Shape ID="5031" Type="Group">
+          <Shapes>
+            <Shape ID="5032" Type="Shape"/>
+            <Shape ID="5033" Type="Shape"/>
+          </Shapes>
+        </Shape>
+        <Shape ID="5034" Type="Shape"/>
+        <Shape ID="5035" Type="Group">
+          <Shapes>
+            <Shape ID="5036" Type="Shape"/>
+            <Shape ID="5037" Type="Shape"/>
+          </Shapes>
+        </Shape>
+        <Shape ID="5038" Type="Shape"/>
+        <Shape ID="5039" Type="Shape"/>
+        <Shape ID="5040" Type="Group">
+          <Shapes>
+            <Shape ID="5041" Type="Shape"/>
+          </Shapes>
+        </Shape>
+        <Shape ID="5042" Type="Shape"/>
+        <Shape ID="5043" Type="Shape"/>
+        <Shape ID="5044" Type="Group">
+          <Shapes>
+            <Shape ID="5045" Type="Shape"/>
+            <Shape ID="5046" Type="Shape"/>
+          </Shapes>
+        </Shape>
+        <Shape ID="5047" Type="Shape"/>
+        <Shape ID="5048" Type="Shape"/>
+        <Shape ID="5049" Type="Shape"/>
+        <Shape ID="5050" Type="Shape"/>
+        <Shape ID="5051" Type="Shape"/>
+        <Shape ID="5052" Name="Heading 2" NameU="Heading 2" Type="Shape">
+          <User>
+            <ValueText Value="SPBR.3.1.7"/>
+          </User>
+          <Property>
+            <msvCalloutField Value="SPBR.3.1.7"/>
+          </Property>
+        </Shape>
+        <Shape ID="5053" Name="Circle.1462" NameU="Circle.1462" Type="Shape"/>
+        <Shape ID="5054" Name="Circle.81" NameU="Circle.81" Type="Shape" UniqueID="{B3375F96-1DC0-4E8A-A65B-2D90CD790007}"/>
+      </Shapes>
+    </Shape>
+    <Shape ID="1323" Type="Group" UniqueID="{2AB700D5-68A9-4D4D-A125-C592F96235FA}" Text="Business Rules Met?">
+      <Property>
+        <BpmnName Value="Business Rules Met?"/>
+        <BpmnMarkerVisible Value="1"/>
+      </Property>
+      <User>
+        <visNavOrder Value="42000"/>
+      </User>
+      <Shapes>
+        <Shape ID="1324" Type="Shape"/>
+        <Shape ID="1325" Type="Shape"/>
+        <Shape ID="1326" Type="Group">
+          <Shapes>
+            <Shape ID="1327" Type="Shape"/>
+            <Shape ID="1328" Type="Shape"/>
+          </Shapes>
+        </Shape>
+        <Shape ID="1329" Type="Shape"/>
+        <Shape ID="1330" Type="Shape"/>
+        <Shape ID="1331" Type="Shape"/>
+        <Shape ID="1332" Type="Group">
+          <Shapes>
+            <Shape ID="1333" Type="Shape"/>
+            <Shape ID="1334" Type="Shape"/>
+          </Shapes>
+        </Shape>
+        <Shape ID="1335" Type="Group">
+          <Shapes>
+            <Shape ID="1336" Type="Shape"/>
+            <Shape ID="1337" Type="Shape"/>
+          </Shapes>
+        </Shape>
+        <Shape ID="1338" Name="Heading 2" NameU="Heading 2" Type="Shape"/>
+        <Shape ID="1339" Name="Circle.1462" NameU="Circle.1462" Type="Shape" UniqueID="{F759433F-CB77-4347-93DD-C3450FBA99F8}"/>
+        <Shape ID="1340" Name="Circle.46" NameU="Circle.46" Type="Shape" UniqueID="{6D5ABCF3-7C7C-42E7-BAF0-E3ECA00F4770}"/>
+      </Shapes>
+    </Shape>
+    <Shape ID="1341" Type="Shape" UniqueID="{606741ED-1221-45E8-920B-FF16802D4C2E}">
+      <User>
+        <visNavOrder Value="43000"/>
+      </User>
+    </Shape>
+    <Shape ID="1342" Type="Shape" UniqueID="{9D640EE6-3C8D-40B4-ABE6-E2CDBAAA1A75}" Text="Yes">
+      <Property>
+        <BpmnName Value="Yes"/>
+      </Property>
+      <User>
+        <visNavOrder Value="44000"/>
+      </User>
+    </Shape>
+    <Shape ID="1361" Name="Sequence Flow.1361" NameU="Sequence Flow.1361" Type="Shape" UniqueID="{26CEAFAA-458E-470C-932E-01338F3AC9DD}" Text="No">
+      <Property>
+        <BpmnName Value="No"/>
+      </Property>
+      <User>
+        <visNavOrder Value="46000"/>
+      </User>
+    </Shape>
+    <Shape ID="1343" Type="Group" UniqueID="{5315812B-BA7A-4FA2-BB4C-96AFDE361B03}" Text="Mismatch?">
+      <Property>
+        <BpmnName Value="Mismatch?"/>
+        <BpmnMarkerVisible Value="1"/>
+      </Property>
+      <User>
+        <visNavOrder Value="45000"/>
+      </User>
+      <Shapes>
+        <Shape ID="1344" Type="Shape"/>
+        <Shape ID="1345" Type="Shape"/>
+        <Shape ID="1346" Type="Group">
+          <Shapes>
+            <Shape ID="1347" Type="Shape"/>
+            <Shape ID="1348" Type="Shape"/>
+          </Shapes>
+        </Shape>
+        <Shape ID="1349" Type="Shape"/>
+        <Shape ID="1350" Type="Shape"/>
+        <Shape ID="1351" Type="Shape"/>
+        <Shape ID="1352" Type="Group">
+          <Shapes>
+            <Shape ID="1353" Type="Shape"/>
+            <Shape ID="1354" Type="Shape"/>
+          </Shapes>
+        </Shape>
+        <Shape ID="1355" Type="Group">
+          <Shapes>
+            <Shape ID="1356" Type="Shape"/>
+            <Shape ID="1357" Type="Shape"/>
+          </Shapes>
+        </Shape>
+        <Shape ID="1358" Name="Heading 2" NameU="Heading 2" Type="Shape"/>
+        <Shape ID="1359" Name="Circle.1462" NameU="Circle.1462" Type="Shape" UniqueID="{F0EEE5BB-5F39-43A5-B0EB-7706C7982C88}"/>
+        <Shape ID="1360" Name="Circle.46" NameU="Circle.46" Type="Shape" UniqueID="{4E0BA3C4-AA42-496F-A3D8-346E77326116}"/>
+      </Shapes>
+    </Shape>
+    <Shape ID="1362" Type="Shape" UniqueID="{0C909973-5A11-496A-B954-813C75AAE232}" Text="Yes">
+      <Property>
+        <BpmnName Value="Yes"/>
+      </Property>
+      <User>
+        <visNavOrder Value="47000"/>
+      </User>
+    </Shape>
+  </Shapes>
+  <Connects>
+    <Connect FromSheet="1361" ToSheet="1343"/>
+    <Connect FromSheet="1341" ToSheet="1101"/>
+    <Connect FromSheet="1321" ToSheet="1343"/>
+    <Connect FromSheet="1264" ToSheet="5029"/>
+    <Connect FromSheet="1242" ToSheet="5029"/>
+    <Connect FromSheet="1242" ToSheet="1216"/>
+    <Connect FromSheet="1179" ToSheet="1323"/>
+    <Connect FromSheet="1160" ToSheet="1216"/>
+    <Connect FromSheet="1028" ToSheet="1002"/>
+    <Connect FromSheet="1028" ToSheet="1101"/>
+    <Connect FromSheet="1055" ToSheet="1029"/>
+    <Connect FromSheet="1128" ToSheet="1002"/>
+    <Connect FromSheet="5000" ToSheet="1265"/>
+    <Connect FromSheet="1362" ToSheet="1161"/>
+    <Connect FromSheet="1362" ToSheet="1343"/>
+    <Connect FromSheet="1361" ToSheet="1077"/>
+    <Connect FromSheet="1342" ToSheet="1134"/>
+    <Connect FromSheet="1342" ToSheet="1323"/>
+    <Connect FromSheet="1341" ToSheet="1323"/>
+    <Connect FromSheet="1321" ToSheet="1265"/>
+    <Connect FromSheet="1318" ToSheet="5029"/>
+    <Connect FromSheet="1264" ToSheet="1265"/>
+    <Connect FromSheet="1243" ToSheet="1216"/>
+    <Connect FromSheet="1183" ToSheet="1134"/>
+    <Connect FromSheet="1180" ToSheet="1101"/>
+    <Connect FromSheet="1179" ToSheet="1161"/>
+    <Connect FromSheet="1160" ToSheet="1134"/>
+    <Connect FromSheet="1055" ToSheet="1002"/>
+    <Connect FromSheet="1056" ToSheet="1057"/>
+    <Connect FromSheet="1056" ToSheet="1029"/>
+    <Connect FromSheet="1098" ToSheet="1029"/>
+  </Connects>
+</PageContents>

@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PageContents xmlns="http://schemas.microsoft.com/office/visio/2012/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xml:space="preserve">
+  <Shapes>
+    <Shape ID="4000" Name="Rectangle.2818" NameU="Rectangle.2818" Type="Shape" UniqueID="{1700E5FD-A70B-45C3-BBE4-471E98AB3099}">
+      <Text>
+        <cp IX="0"/>
+        <pp IX="0"/>
+Sub-Process      </Text>
+      <User>
+        <visNavOrder Value="1000"/>
+      </User>
+    </Shape>
+    <Shape ID="4001" Type="Shape" UniqueID="{0881FD2B-CF27-4F7C-A953-81041726FD0C}">
+      <Text>
+        <cp IX="0"/>
+        <cp IX="1"/>
+        <pp IX="0"/>
+Determine Transfer Out Fee      </Text>
+      <User>
+        <visNavOrder Value="2000"/>
+      </User>
+      <Property>
+        <Function Type="0" Invisible="0" Verify="0" DataLinked="0" LangID="en-US" Calendar="0"/>
+      </Property>
+    </Shape>
+    <Shape ID="4002" Name="Task.4308" NameU="Task.4308" Type="Group" UniqueID="{87D975EB-844B-484D-9802-FF9AA88B787C}" Text="Determine No Charge Default Scenario(s)">
+      <Property>
+        <BpmnDocumentation Value="SPBR.3.2.1"/>
+        <BpmnName Value="Determine No Charge Default Scenario(s)"/>
+        <BpmnTaskType Value="User"/>
+        <Function Type="0" Invisible="0" Verify="0" DataLinked="0" LangID="en-US" Calendar="0"/>
+      </Property>
+      <User>
+        <BpmnNumIconsVisible Value="1"/>
+        <visNavOrder Value="3000"/>
+      </User>
+      <Shapes>
+        <Shape ID="4003" Type="Shape" UniqueID="{7FA23C5C-D124-4AB7-9B20-370FB2AACB7E}"/>
+        <Shape ID="4004" Type="Group" UniqueID="{5F0C8112-9A0E-487A-8400-5DCFCBC117C8}">
+          <Shapes>
+            <Shape ID="4005" Type="Shape" UniqueID="{9853C68C-3DF3-4AC8-AC1C-AAFD954EBD3D}"/>
+            <Shape ID="4006" Type="Shape" UniqueID="{7170A7E0-4987-4503-BAC3-D8312105482C}"/>
+          </Shapes>
+        </Shape>
+        <Shape ID="4007" Type="Shape"/>
+        <Shape ID="4008" Type="Group">
+          <Shapes>
+            <Shape ID="4009" Type="Shape"/>
+            <Shape ID="4010" Type="Shape"/>
+          </Shapes>
+        </Shape>
+        <Shape ID="4011" Type="Shape"/>
+        <Shape ID="4012" Type="Shape"/>
+        <Shape ID="4013" Type="Group">
+          <Shapes>
+            <Shape ID="4014" Type="Shape"/>
+          </Shapes>
+        </Shape>
+        <Shape ID="4015" Type="Shape"/>
+        <Shape ID="4016" Type="Shape"/>
+        <Shape ID="4017" Type="Group" UniqueID="{80133110-1104-4752-B68D-51A623095B97}">
+          <Shapes>
+            <Shape ID="4018" Type="Shape" UniqueID="{5E27DDD1-744C-42B2-BF3E-E7F5B2599EFA}"/>
+            <Shape ID="4019" Type="Shape" UniqueID="{24934796-7272-413C-ACD4-A1F57134BA69}"/>
+          </Shapes>
+        </Shape>
+        <Shape ID="4020" Type="Shape"/>
+        <Shape ID="4021" Type="Shape"/>
+        <Shape ID="4022" Type="Shape"/>
+        <Shape ID="4023" Type="Shape"/>
+        <Shape ID="4024" Type="Shape"/>
+        <Shape ID="4025" Name="Heading 2" NameU="Heading 2" Type="Shape">
+          <User>
+            <ValueText Value="SPBR.3.2.1"/>
+          </User>
+          <Property>
+            <msvCalloutField Value="SPBR.3.2.1"/>
+          </Property>
+        </Shape>
+        <Shape ID="4026" Name="Circle.1462" NameU="Circle.1462" Type="Shape" UniqueID="{3544BDCA-176A-4B4D-B82B-7FBB81DE71E8}"/>
+        <Shape ID="4027" Name="Circle.81" NameU="Circle.81" Type="Shape" UniqueID="{C4F850D5-4628-42A8-842F-FCEAEBF181BF}"/>
+      </Shapes>
+    </Shape>
+    <Shape ID="4028" Name="Sequence Flow.4334" NameU="Sequence Flow.4334" Type="Shape" UniqueID="{31E54B9C-9170-448B-ACC8-B79B0026B133}">
+      <User>
+        <visNavOrder Value="4000"/>
+      </User>
+    </Shape>
+    <Shape ID="4029" Name="Sequence Flow.4335" NameU="Sequence Flow.4335" Type="Shape" UniqueID="{C36000CA-ECA2-4333-A098-292BAAC2B50C}">
+      <User>
+        <visNavOrder Value="5000"/>
+      </User>
+    </Shape>
+    <Shape ID="4030" Name="Start Event.4336" NameU="Start Event.4336" Type="Group" UniqueID="{870BC026-FD7A-4C16-B4BA-58545C18EDF0}">
+      <User>
+        <visNavOrder Value="6000"/>
+      </User>
+      <Shapes>
+        <Shape ID="4031" Type="Shape"/>
+        <Shape ID="4032" Type="Shape"/>
+        <Shape ID="4033" Type="Shape"/>
+        <Shape ID="4034" Type="Shape"/>
+        <Shape ID="4035" Type="Shape"/>
+        <Shape ID="4036" Type="Shape"/>
+        <Shape ID="4037" Type="Shape"/>
+        <Shape ID="4038" Type="Shape"/>
+        <Shape ID="4039" Type="Shape"/>
+        <Shape ID="4040" Type="Shape"/>
+        <Shape ID="4041" Type="Shape"/>
+        <Shape ID="4042" Type="Shape"/>
+        <Shape ID="4043" Name="Circle.1462" NameU="Circle.1462" Type="Shape" UniqueID="{1749CC1D-C0A4-40CD-8263-D74CAF296E7D}"/>
+      </Shapes>
+    </Shape>
+    <Shape ID="4044" Name="Annotation.4350" NameU="ABC.4350" Type="Group" UniqueID="{7408545B-12D0-4A0D-8C80-1650740CC8A9}">
+      <User>
+        <visNavOrder Value="7000"/>
+      </User>
+      <Shapes>
+        <Shape ID="4045" Type="Shape"/>
+        <Shape ID="4046" Type="Shape" UniqueID="{A6B8C730-B18E-4B28-A293-C3442DEE022F}">
+          <Text>
+            <cp IX="0"/>
+            <cp IX="1"/>
+            <cp IX="2"/>
+            <cp IX="3"/>
+            <cp IX="4"/>
+            <cp IX="5"/>
+            <cp IX="6"/>
+            <cp IX="7"/>
+            <cp IX="8"/>
+            <cp IX="9"/>
+            <cp IX="10"/>
+            <cp IX="11"/>
+            <cp IX="12"/>
+            <cp IX="13"/>
+            <cp IX="14"/>
+            <cp IX="15"/>
+            <cp IX="16"/>
+            <cp IX="17"/>
+            <cp IX="18"/>
+            <cp IX="19"/>
+            <pp IX="0"/>
+            <pp IX="1"/>
+            <pp IX="2"/>
+System defaults to charge fee, unless scenario criteria is met in which advisor will uncheck UI box, and will not charge Transfer Out Fees to customer.BMO to BMO
+Employees
+Marriage Breakdown
+Estates
+Pension buybacks
+Non-Resident to Non-Resident
+Residuals
+ReversalsNOTE: Advisor may be able to waive transfer out Fee at their discretion. Fee would be taken out of Advisor compensation.(GAP.0008)HLR:BMOMWS011.4 [BMO-567]Story:BMO-23377.FR.13Reg Ctrl:CIRO.4864(1).Fees and chargesGAP ID:Status:In Progress(IA Portal Status), In Progress(BO Status)Capability:689.Charge Account FeeDependency:P10.Fees &amp; Advisor Comp          </Text>
+        </Shape>
+      </Shapes>
+    </Shape>
+    <Shape ID="4047" Name="Task.4353" NameU="Task.4353" Type="Group" UniqueID="{96DF6620-CEC7-450A-B513-2D04CEAC5EEE}" Text="Trigger External Transfer Out Fee">
+      <Property>
+        <BpmnDocumentation Value="SPBR.3.2.2"/>
+        <BpmnName Value="Trigger External Transfer Out Fee"/>
+        <BpmnTaskType Value="Service"/>
+      </Property>
+      <User>
+        <visNavOrder Value="8000"/>
+      </User>
+      <Shapes>
+        <Shape ID="4048" Type="Shape"/>
+        <Shape ID="4049" Type="Group">
+          <Shapes>
+            <Shape ID="4050" Type="Shape"/>
+            <Shape ID="4051" Type="Shape"/>
+          </Shapes>
+        </Shape>
+        <Shape ID="4052" Type="Shape"/>
+        <Shape ID="4053" Type="Group">
+          <Shapes>
+            <Shape ID="4054" Type="Shape"/>
+            <Shape ID="4055" Type="Shape"/>
+          </Shapes>
+        </Shape>
+        <Shape ID="4056" Type="Shape"/>
+        <Shape ID="4057" Type="Shape"/>
+        <Shape ID="4058" Type="Group">
+          <Shapes>
+            <Shape ID="4059" Type="Shape"/>
+          </Shapes>
+        </Shape>
+        <Shape ID="4060" Type="Shape"/>
+        <Shape ID="4061" Type="Shape"/>
+        <Shape ID="4062" Type="Group">
+          <Shapes>
+            <Shape ID="4063" Type="Shape"/>
+            <Shape ID="4064" Type="Shape"/>
+          </Shapes>
+        </Shape>
+        <Shape ID="4065" Type="Shape"/>
+        <Shape ID="4066" Type="Shape"/>
+        <Shape ID="4067" Type="Shape"/>
+        <Shape ID="4068" Type="Shape"/>
+        <Shape ID="4069" Type="Shape"/>
+        <Shape ID="4070" Name="Heading 2" NameU="Heading 2" Type="Shape">
+          <User>
+            <ValueText Value="SPBR.3.2.2"/>
+          </User>
+          <Property>
+            <msvCalloutField Value="SPBR.3.2.2"/>
+          </Property>
+        </Shape>
+        <Shape ID="4071" Name="Circle.1462" NameU="Circle.1462" Type="Shape"/>
+        <Shape ID="4072" Name="Circle.81" NameU="Circle.81" Type="Shape" UniqueID="{B0F95F05-AFAC-4B79-92F6-FEAA01E955F5}"/>
+      </Shapes>
+    </Shape>
+    <Shape ID="4073" Name="Annotation.4379" NameU="ABC.4379" Type="Group" UniqueID="{FC0F3197-AD46-4871-A1B4-A2809A4D2BCC}">
+      <User>
+        <visNavOrder Value="9000"/>
+      </User>
+      <Shapes>
+        <Shape ID="4074" Type="Shape"/>
+        <Shape ID="4075" Type="Shape" UniqueID="{D9E80404-5971-4FAC-AD0B-E5394FD74984}">
+          <Text>
+            <cp IX="0"/>
+            <cp IX="1"/>
+            <cp IX="2"/>
+            <cp IX="3"/>
+            <cp IX="4"/>
+            <cp IX="5"/>
+            <cp IX="6"/>
+            <cp IX="7"/>
+            <cp IX="8"/>
+            <cp IX="9"/>
+            <cp IX="10"/>
+            <cp IX="11"/>
+            <cp IX="12"/>
+            <cp IX="13"/>
+            <pp IX="0"/>
+            <pp IX="1"/>
+Advisor will keep default UI box checked. System will know that this fee will only be charged once the receiving FI has accepted the asset list. Customer will be charged Transfer-Out Fee of $135.00 + Tax.HLR:BMOMWS011.4 [BMO-567]Story:BMO-23377.FR.13, BMO-23377.FR.30GAP ID:Status:In Progress(IA Portal Status), In Progress(BO Status)Capability:689.Charge Account Fee          </Text>
+        </Shape>
+      </Shapes>
+    </Shape>
+    <Shape ID="4076" Name="Gateway.7000" NameU="Gatewat.7000" Type="Group" UniqueID="{00C7B6E6-4E27-4543-9461-3EE1D47208D4}" Text="Waive fee?">
+      <Property>
+        <BpmnName Value="Waive fee?"/>
+        <BpmnMarkerVisible Value="1"/>
+      </Property>
+      <User>
+        <visNavOrder Value="10000"/>
+      </User>
+      <Shapes>
+        <Shape ID="4077" Type="Shape"/>
+        <Shape ID="4078" Type="Shape"/>
+        <Shape ID="4079" Type="Group">
+          <Shapes>
+            <Shape ID="4080" Type="Shape"/>
+            <Shape ID="4081" Type="Shape"/>
+          </Shapes>
+        </Shape>
+        <Shape ID="4082" Type="Shape"/>
+        <Shape ID="4083" Type="Shape"/>
+        <Shape ID="4084" Type="Shape"/>
+        <Shape ID="4085" Type="Group">
+          <Shapes>
+            <Shape ID="4086" Type="Shape"/>
+            <Shape ID="4087" Type="Shape"/>
+          </Shapes>
+        </Shape>
+        <Shape ID="4088" Type="Group">
+          <Shapes>
+            <Shape ID="4089" Type="Shape"/>
+            <Shape ID="4090" Type="Shape"/>
+          </Shapes>
+        </Shape>
+        <Shape ID="4091" Name="Heading 2" NameU="Heading 2" Type="Shape"/>
+        <Shape ID="4092" Name="Circle.1462" NameU="Circle.1462" Type="Shape" UniqueID="{E33EE07F-75F6-4B4C-B04F-8FC8DF0BAE18}"/>
+        <Shape ID="4093" Name="Circle.46" NameU="Circle.46" Type="Shape" UniqueID="{10403AE5-A466-4FEB-BA41-A6CEFDAC77D3}"/>
+      </Shapes>
+    </Shape>
+    <Shape ID="4094" Name="Sequence Flow.7018" NameU="Sequence Flow.7018" Type="Shape" UniqueID="{B8681D2E-4854-40BA-8279-F161FC411936}" Text="No">
+      <Property>
+        <BpmnName Value="No"/>
+      </Property>
+      <User>
+        <visNavOrder Value="11000"/>
+      </User>
+    </Shape>
+    <Shape ID="4095" Name="Sequence Flow.7019" NameU="Sequence Flow.7019" Type="Shape" UniqueID="{AD4FE77E-B07B-4EFD-A60A-34FCFB07742F}" Text="Yes">
+      <Property>
+        <BpmnName Value="Yes"/>
+      </Property>
+      <User>
+        <visNavOrder Value="12000"/>
+      </User>
+    </Shape>
+    <Shape ID="4097" Name="End Event.4403" NameU="End Event.4403" Type="Group" UniqueID="{FFE7D8AA-D04E-4F3B-BD58-A78DC2CB744B}">
+      <Text>
+        <cp IX="0"/>
+Transfer Out Fee Determined      </Text>
+      <Property>
+        <BpmnName Value="Transfer Out Fee Determined"/>
+      </Property>
+      <User>
+        <visNavOrder Value="14000"/>
+      </User>
+      <Shapes>
+        <Shape ID="4098" Type="Shape"/>
+        <Shape ID="4099" Type="Shape"/>
+        <Shape ID="4100" Type="Shape"/>
+        <Shape ID="4101" Type="Shape"/>
+        <Shape ID="4102" Type="Shape"/>
+        <Shape ID="4103" Type="Shape"/>
+        <Shape ID="4104" Type="Shape"/>
+        <Shape ID="4105" Type="Shape"/>
+        <Shape ID="4106" Type="Shape"/>
+        <Shape ID="4107" Type="Shape"/>
+        <Shape ID="4108" Type="Shape"/>
+        <Shape ID="4109" Type="Shape"/>
+        <Shape ID="4110" Name="Circle.1466" NameU="Circle.1466" Type="Shape" UniqueID="{40CAB301-7DF7-41BF-A2CF-31C0A07D9C7E}"/>
+        <Shape ID="4111" Name="Circle.1465" NameU="Circle.1465" Type="Shape" UniqueID="{CFF23C5C-4064-41D9-974E-E309CCDEF52C}"/>
+        <Shape ID="4112" Name="Circle.1464" NameU="Circle.1464" Type="Shape" UniqueID="{1A454152-4908-4160-9879-E4134B421B10}"/>
+        <Shape ID="4113" Name="Circle.1463" NameU="Circle.1463" Type="Shape" UniqueID="{D42A1641-2104-4118-AA2B-F4AF40C045CE}"/>
+        <Shape ID="4114" Name="Circle.1462" NameU="Circle.1462" Type="Shape" UniqueID="{913F57AC-C920-422B-96CF-B9C761475461}"/>
+      </Shapes>
+    </Shape>
+    <Shape ID="4115" Name="End Event.7066" NameU="End Event.7066" Type="Group" UniqueID="{1A8AB5E3-2FF6-42BD-B8BE-26784ADC9E26}">
+      <Text>
+        <cp IX="0"/>
+Fee Waived      </Text>
+      <Property>
+        <BpmnName Value="Fee Waived"/>
+      </Property>
+      <User>
+        <visNavOrder Value="15000"/>
+      </User>
+      <Shapes>
+        <Shape ID="4116" Type="Shape"/>
+        <Shape ID="4117" Type="Shape"/>
+        <Shape ID="4118" Type="Shape"/>
+        <Shape ID="4119" Type="Shape"/>
+        <Shape ID="4120" Type="Shape"/>
+        <Shape ID="4121" Type="Shape"/>
+        <Shape ID="4122" Type="Shape"/>
+        <Shape ID="4123" Type="Shape"/>
+        <Shape ID="4124" Type="Shape"/>
+        <Shape ID="4125" Type="Shape"/>
+        <Shape ID="4126" Type="Shape"/>
+        <Shape ID="4127" Type="Shape"/>
+        <Shape ID="4128" Name="Circle.1466" NameU="Circle.1466" Type="Shape" UniqueID="{4E6A3B0C-E78A-4EE1-A917-11E8F957A185}"/>
+        <Shape ID="4129" Name="Circle.1465" NameU="Circle.1465" Type="Shape" UniqueID="{EA70FE20-9560-4AD9-A451-3361A1DE3698}"/>
+        <Shape ID="4130" Name="Circle.1464" NameU="Circle.1464" Type="Shape" UniqueID="{09F70134-5E70-4030-BD4A-4BAFAF207BC0}"/>
+        <Shape ID="4131" Name="Circle.1463" NameU="Circle.1463" Type="Shape" UniqueID="{678EA9FF-78C5-46B5-BBF5-EAC2C4DBD119}"/>
+        <Shape ID="4132" Name="Circle.1462" NameU="Circle.1462" Type="Shape" UniqueID="{839CC7D3-8CB9-479E-AAA2-81DF193745CF}"/>
+      </Shapes>
+    </Shape>
+    <Shape ID="7000" Type="Shape" UniqueID="{74A7489C-589A-4241-BFF0-9851F46FBD7C}">
+      <User>
+        <visNavOrder Value="16000"/>
+      </User>
+    </Shape>
+  </Shapes>
+  <Connects>
+    <Connect FromSheet="4028" ToSheet="4002"/>
+    <Connect FromSheet="4028" ToSheet="4076"/>
+    <Connect FromSheet="4029" ToSheet="4002"/>
+    <Connect FromSheet="4094" ToSheet="4047"/>
+    <Connect FromSheet="7000" ToSheet="4097"/>
+    <Connect FromSheet="7000" ToSheet="4047"/>
+    <Connect FromSheet="4095" ToSheet="4115"/>
+    <Connect FromSheet="4095" ToSheet="4076"/>
+    <Connect FromSheet="4029" ToSheet="4030"/>
+    <Connect FromSheet="4044" ToSheet="4002"/>
+    <Connect FromSheet="4073" ToSheet="4047"/>
+    <Connect FromSheet="4094" ToSheet="4076"/>
+  </Connects>
+</PageContents>
